@@ -32,7 +32,13 @@
 
 ###
 
-<p data-importer="text" align="left">Olá! Eu sou Leonardo, do Brasil.<br><br>- 🖥️ Desenvolvedor de Software Júnior.<br>- 🔭 Atualmente faço estágio em desenvolvimento de software.<br>- 📚 Estou aprendendo e aprimorando meus conhecimentos em desenvolvimento de APIs, interfaces e processos de software.<br>- ⚡ No meu tempo livre, desenvolvo projetos e estudo novas tecnologias.</p>
+<p data-importer="text" align="left">Olá! Eu sou Leonardo, do Brasil.<br><br>
+  - 🖥️ Desenvolvedor de Software Júnior.<br>
+  - 🔭 Atualmente faço estágio em desenvolvimento de software.<br>
+  - 📚 Estou aprendendo e aprimorando meus conhecimentos em desenvolvimento de APIs, interfaces e processos de software.<br>
+  - ⚡ No meu tempo livre, desenvolvo projetos e estudo novas tecnologias.
+  - ✉️ Email para Contato: leonardoribeirosouza.dev@gmail.com
+</p>
 
 ###
 
