@@ -14,7 +14,7 @@ em tecnologia.
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/LeonardoRibSouzaa"">
+  <a href="https://github.com/LeonardoRibSouzaa">
     <img src="https://img.shields.io/badge/GitHub-LeonardoRibSouzaa-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/leonardoexemplo12/">
