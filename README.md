@@ -80,8 +80,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRibSouzaa" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoRibSouzaa" height="250" alt="stats graph"  />
+    <img src="./profile/stats.svg" height="180" alt="GitHub stats" />
+    <img src="./profile/top-langs.svg" height="180" alt="Top languages" />    
 </div>
 
 ###
